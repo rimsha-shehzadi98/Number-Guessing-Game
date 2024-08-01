@@ -67,16 +67,12 @@ button {
   color: #fff;
 }
 
-.guesses {
-  /* background-color: #7a7a7a; */
-}
-
 #wrapper {
   box-sizing: border-box;
   text-align: center;
   width: 450px;
   height: auto;
-  background-color: #354ce0;
+  background-color: #515151;
   color: #fff;
   font-size: 25px;
   padding-bottom: 50px;
